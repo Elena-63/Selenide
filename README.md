@@ -1,0 +1,1 @@
+# Selenide [![Build status](https://ci.appveyor.com/api/projects/status/tubjk4fsox1rw8ay?svg=true)](https://ci.appveyor.com/project/Elena-63/selenide)
